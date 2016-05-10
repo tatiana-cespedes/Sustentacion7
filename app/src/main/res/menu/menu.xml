@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_Agregar"
+        android:title="Agregar, Editar, Eliminar">
+
+    </item>
+
+    <item
+        android:id="@+id/menu_inventario"
+        android:title="Inventario">
+
+    </item>
+    <item
+        android:id="@+id/menu_venta"
+        android:title="Venta">
+
+    </item>
+
+
+</menu>
